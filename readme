@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of file.
 dev branch & f1
 issue-001
+stash
+sth2
